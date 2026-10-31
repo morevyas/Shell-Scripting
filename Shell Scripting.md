@@ -4,7 +4,7 @@
 ---
 
 <h1 id="shell-script">Shell Script</h1>
-<p>A <strong>shell script is a text file containing a sequence of commands</strong> that an operating system’s shell (command-line interpreter) executes in order. Instead of typing terminal commands one by one, you bundle them into a single file to <strong>automate repetitive tasks</strong>, save time, and eliminate human error.</p>
+<p>A <strong>shell script is a text file containing a sequence of commands</strong> that an operating system’s shell (command-line interpreter) executes in order. Instead of typing terminal commands one by one, you bundle them into a single text file (<strong>a script</strong>) to <strong>automate repetitive tasks</strong>, save time, and eliminate human error.</p>
 <p>A <strong>shell</strong> itself is simply a program that acts as a command-line interpreter sitting between you and the core operating system (<strong>kernel</strong>). Common variations include <strong>Bash</strong> (Bourne Again Shell), <strong>Zsh</strong> (Z Shell), and <strong>Ksh</strong> (Korn Shell).</p>
 <p><strong>A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter.</strong></p>
 <p>A <strong>shell script</strong> is a plain text file containing a series of commands that the shell executes sequentially. It helps automate complex or repetitive tasks.</p>
@@ -115,4 +115,30 @@
 <p><strong>Shell workflow:</strong> A single-line command like <code>grep -r "Invoice" /path/to/folder/*.pdf</code> finds every instance across thousands of files in seconds.</p>
 </li>
 </ul>
+<h2 id="types-of-shell">Types of shell</h2>
+<p><strong>check installed shell in system</strong> :</p>
+<pre><code>cat /etc/shells
+</code></pre>
+<h3 id="bourne-shell--">Bourne shell :-</h3>
+<p>It is original UNIX shell and form of foundation for many modern shells ,<br>
+It is designed to be fast, lightweight and suitable for system level scripting.<br>
+<strong>Denoted as</strong> :</p>
+<pre><code>sh
+</code></pre>
+<h3 id="c-shell--">C shell :-</h3>
+<p>It introduced several interactive features that were not available in the original <strong>bourne shell</strong></p>
+<p>** Denoted as** :</p>
+<pre><code>csh
+</code></pre>
+<h3 id="kore-shell--">Kore shell :-</h3>
+<p>It is superset of bourne shell , meaning it support all features of <code>.sh</code> &amp; adds advanced capabilities,<br>
+It is combine scripting power with strong interactive features.<br>
+**Denoted as **:</p>
+<pre><code>ksh
+</code></pre>
+<h3 id="gnu-bourne-again-shell--">GNU Bourne-Again shell :-</h3>
+<p>It is most widely used shell in LINUX, default shell in most linux environments, supports commands history and auto-completion.<br>
+<strong>Denoted as</strong>:</p>
+<pre><code>bash
+</code></pre>
 
