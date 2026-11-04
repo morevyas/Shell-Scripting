@@ -8,7 +8,7 @@
 <p>A <strong>shell</strong> itself is simply a program that acts as a command-line interpreter sitting between you and the core operating system (<strong>kernel</strong>). Common variations include <strong>Bash</strong> (Bourne Again Shell), <strong>Zsh</strong> (Z Shell), and <strong>Ksh</strong> (Korn Shell).</p>
 <p><strong>A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter.</strong></p>
 <p>A <strong>shell script</strong> is a plain text file containing a series of commands that the shell executes sequentially. It helps automate complex or repetitive tasks.</p>
-<h2 id="purpose-of-shell-scripting">Purpose of Shell Scripting</h2>
+<h2 id="purpose-of-shell-scripting--">Purpose of Shell Scripting :-</h2>
 <p>Main purpose: Shell scripting is used to automate tasks and save time by running multiple commands through a single script.</p>
 <h3 id="reduce-repetitive-work">1. Reduce Repetitive Work</h3>
 <ul>
@@ -35,7 +35,7 @@
 </ul>
 <h2 id="common-real-world-uses-of-shell-scripting">Common Real-World Uses of Shell Scripting</h2>
 <p>Meaning: Shell scripting is used by System Administrators, DevOps Engineers and Developers to automate daily Linux tasks and manage servers easily.</p>
-<h3 id="system-administration--housekeeping">1. System Administration &amp; Housekeeping</h3>
+<h3 id="system-administration">1. System Administration</h3>
 <ul>
 <li>Automated Backup: Automatically takes backups of important files and folders.</li>
 <li>Log Management: Removes or archives old log files to save disk space.</li>
@@ -61,7 +61,7 @@
 <li>Automates repetitive tasks.</li>
 <li>Executes multiple commands with a single script.</li>
 <li>Acts as a form of documentation for workflows.</li>
-<li>Supports decision-making with <strong>if-else statements</strong>, loops, and variables</li>
+<li>Supports decision-making with <strong>if-else statements</strong>, loops, and variables.</li>
 </ul>
 <h2 id="key-characteristics--">Key Characteristics :-</h2>
 <h4 id="programming-capabilities-">Programming Capabilities :</h4>
@@ -82,13 +82,13 @@
 <ul>
 <li>You need to enter multiple shell commands and you will need to do it again in the future.</li>
 <li>If you know how a piece of work need to perform… you can put that knowledge in a shell script</li>
-<li>ShellScript eliminates repetitive tasks through automation.</li>
+<li>Shell Script eliminates repetitive tasks through automation.</li>
 <li>Using a good script can reduce the change of error.</li>
 <li>A shell script can perform a task faster than a human can.</li>
 <li>You have to do a task more than once, but it’s something that you rarely do.</li>
 </ul>
 <h4 id="efficiency-and-automation-">Efficiency and Automation :</h4>
-<p>Save time with Automation</p>
+<p>Save time with Automation.</p>
 <h4 id="server-management-">Server Management :</h4>
 <p>Automatically install software, update security patches, and create user accounts when a new server is booted up.</p>
 <h4 id="devops-cicd-pipeline-">DevOps (CI/CD Pipeline) :</h4>
