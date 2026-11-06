@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="variables">Variables</h1>
+<h1 id="variables-in-shell">Variables in Shell</h1>
 <p>Variables in shell are an essential part of managing dynamic values within your . They act as pointers to data, enabling you to manipulate and utilize values efficiently.</p>
 <p>A <strong>shell variable is a named container used to store data in memory while a shell script is running</strong>. Think of it as a labelled box that holds data during script execution. The stored value can be a string, number, filename or even the output of a command. Variables make shell scripts dynamic and flexible instead of hard-coded and static.</p>
 <ul>
