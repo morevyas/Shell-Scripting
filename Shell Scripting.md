@@ -56,6 +56,22 @@
 <li>Bulk File Renaming: Renames multiple files at once instead of changing them one by one.</li>
 <li>Data Filtering: Uses commands like <code>grep</code>, <code>awk</code> and <code>sed</code> to find errors and useful information from large log files.</li>
 </ul>
+<h3 id="command-sequencing">5. Command Sequencing</h3>
+<p>This is the absolute foundation. It is the act of taking individual commands you would normally type by hand (like <code>cd</code>, <code>mkdir</code>, or <code>cp</code>) and bundling them into a text file. The system then runs them line-by-line in a split second, eliminating human typing errors.</p>
+<h3 id="managing-data-flow-pipes--redirection">6. Managing Data Flow (Pipes &amp; Redirection)</h3>
+<p>A major part of scripting is controlling where information goes. You learn how to take the output of one command and automatically send it somewhere else:</p>
+<ul>
+<li><strong>Saving to files:</strong> Using <code>&gt;</code> to dump text or data into a report.</li>
+<li><strong>Piping (<code>|</code>):</strong> Passing data directly from one tool to another (e.g., pulling a massive log file, filtering out everything except “Errors”, and counting them instantly).</li>
+</ul>
+<h3 id="using-variables">7. Using Variables</h3>
+<p>To keep scripts reusable, you can’t hardcode specific words or folders. You use variables to hold dynamic information—like storing today’s date, tracking a specific filename, or reading system settings (like which user is currently logged in).</p>
+<h3 id="logic-and-control-flow">8. Logic and Control Flow</h3>
+<p>This gives your script a brain. You write logic so the script can make decisions on its own:</p>
+<ul>
+<li><strong>Conditionals (<code>if/else</code>):</strong> “If the backup folder doesn’t exist, create it; otherwise, start copying files.”</li>
+<li><strong>Loops (<code>for/while</code>):</strong> “Look through these 50 user folders and delete any temporary files found inside.”</li>
+</ul>
 <h2 id="features-of-it--">Features of it :-</h2>
 <ul>
 <li>Automates repetitive tasks.</li>
