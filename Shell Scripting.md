@@ -4,6 +4,7 @@
 ---
 
 <h1 id="shell-script">Shell Script</h1>
+<h2 id="what-is-shell-script--">What is Shell Script :-</h2>
 <p>A <strong>shell script is a text file containing a sequence of commands</strong> that an operating system’s shell (command-line interpreter) executes in order. Instead of typing terminal commands one by one, you bundle them into a single text file (<strong>a script</strong>) to <strong>automate repetitive tasks</strong>, save time, and eliminate human error.</p>
 <p>A <strong>shell</strong> itself is simply a program that acts as a command-line interpreter sitting between you and the core operating system (<strong>kernel</strong>). Common variations include <strong>Bash</strong> ( Bourne  Again Shell), <strong>Zsh</strong> (Z Shell), and <strong>Ksh</strong> (Korn Shell).</p>
 <p><strong>A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter.</strong></p>
@@ -33,7 +34,7 @@
 <li>Shell scripts are interpreted, so we can write and run them directly without compiling.</li>
 <li>It helps us test commands and get results quickly.</li>
 </ul>
-<h2 id="common-real-world-uses-of-shell-scripting">Common Real-World Uses of Shell Scripting</h2>
+<h2 id="common-real-world-uses-of-shell-scripting--">Common Real-World Uses of Shell Scripting :-</h2>
 <p>Meaning: Shell scripting is used by System Administrators, DevOps Engineers and Developers to automate daily Linux tasks and manage servers easily.</p>
 <h3 id="system-administration--">1. System Administration :-</h3>
 <ul>
@@ -94,7 +95,7 @@
 <li>The terminal usually allows just one command at a time.</li>
 <li>Shell script allows you to combine and run multiple commands together.</li>
 </ul>
-<h2 id="need-of-it">Need of it</h2>
+<h2 id="need-of-it--">Need of it :-</h2>
 <ul>
 <li>You need to enter multiple shell commands and you will need to do it again in the future.</li>
 <li>If you know how a piece of work need to perform… you can put that knowledge in a shell script</li>
