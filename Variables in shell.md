@@ -16,4 +16,8 @@
 <li>Control decision-making in loops and conditionals.</li>
 <li>Pass arguments between scripts and processes.</li>
 </ul>
+<p><strong>Saves typing and easy to change:</strong><br>
+Imagine you write a script that uses the folder path <code>/home/user/projects/my_website</code> 10 times. If you rename that folder later, you would have to fix it in 10 places.</p>
+<p><strong>Works with changing information:</strong><br>
+Some information changes every time you run a script, like today’s date or the person typing at the keyboard. Variables catch this live data for you.</p>
 
