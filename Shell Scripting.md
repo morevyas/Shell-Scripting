@@ -78,7 +78,7 @@
 <li>Automates repetitive tasks.</li>
 <li>Executes multiple commands with a single script.</li>
 <li>Acts as a form of documentation for workflows.</li>
-<li>Supports decision-making with <strong>if-else statements</strong>, loops, and variables.</li>
+<li>Supports decision-making with <strong>if-else statements, loops, and variables</strong>.</li>
 </ul>
 <h2 id="key-characteristics--">Key Characteristics :-</h2>
 <h4 id="programming-capabilities-">Programming Capabilities :</h4>
@@ -105,7 +105,7 @@
 <li>You have to do a task more than once, but it’s something that you rarely do.</li>
 </ul>
 <h4 id="efficiency-and-automation-">Efficiency and Automation :</h4>
-<p>Save time with Automation.</p>
+<p><strong>Save time with Automation</strong>.</p>
 <h4 id="server-management-">Server Management :</h4>
 <p>Automatically install software, update security patches, and create user accounts when a new server is booted up.</p>
 <h4 id="devops-cicd-pipeline-">DevOps (CI/CD Pipeline) :</h4>
