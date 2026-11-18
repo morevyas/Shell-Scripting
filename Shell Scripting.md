@@ -5,7 +5,7 @@
 
 <h1 id="shell-script">Shell Script</h1>
 <h2 id="what-is-shell-script--">What is Shell Script :-</h2>
-<p>A <strong>shell script is a text file containing a sequence of commands</strong> that an operating system’s shell (command-line interpreter) executes in order. Instead of typing terminal commands one by one, you bundle them into a single text file (<strong>a script</strong>) to <strong>automate repetitive tasks</strong>, save time, and eliminate human error.</p>
+<p>A <strong>shell script is a text file containing a sequence of commands</strong> that an operating system’s shell (command-line interpreter) executes in order. Instead of typing terminal commands one by one, you bundle them into a single text file (<strong>a script</strong>) to <strong>automate repetitive tasks, save time, and eliminate human error</strong>.</p>
 <p>A <strong>shell</strong> itself is simply a program that acts as a command-line interpreter sitting between you and the core operating system (<strong>kernel</strong>). Common variations include <strong>Bash</strong> ( Bourne  Again Shell), <strong>Zsh</strong> (Z Shell), and <strong>Ksh</strong> (Korn Shell).</p>
 <p><strong>A shell script is a list of commands in a computer program that is run by the Unix shell which is a command-line interpreter.</strong></p>
 <p>A <strong>shell script</strong> is a plain text file containing a series of commands that the shell executes sequentially. It helps automate complex or repetitive tasks.</p>
@@ -20,7 +20,7 @@
 <h3 id="avoid-human-errors--">2. Avoid Human Errors :-</h3>
 <ul>
 <li>It reduces mistakes made while typing commands manually.</li>
-<li>A script runs commands in the same order every time.</li>
+<li>A <strong>script runs commands in the same order every time</strong>.</li>
 <li>Example: Automatically creating folders and taking backups.</li>
 </ul>
 <h3 id="connect-different-commands--">3. Connect Different Commands :-</h3>
