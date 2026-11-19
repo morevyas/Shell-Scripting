@@ -105,10 +105,10 @@
 <li>You have to do a task more than once, but it’s something that you rarely do.</li>
 </ul>
 <h4 id="efficiency-and-automation-">Efficiency and Automation :</h4>
-<p><strong>Save time with Automation</strong>.</p>
+<p>Save time with Automation.</p>
 <h4 id="server-management-">Server Management :</h4>
 <p>Automatically install software, update security patches, and create user accounts when a new server is booted up.</p>
-<h4 id="devops-cicd-pipeline-">DevOps (CI/CD Pipeline) :</h4>
+<h4 id="devops-cicd-">DevOps (CI/CD) :</h4>
 <p>Automatically test and deploy new code updates to a website.</p>
 <h4 id="eliminating-error-">Eliminating Error :</h4>
 <p>A script ensures the <strong>exact same sequence executes flawlessly</strong> every single time.</p>
